@@ -1,3 +1,3 @@
 def doble(num):
-	r = num * 3
+	r = num * 2
 	return r
